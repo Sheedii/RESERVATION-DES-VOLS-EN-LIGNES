@@ -1,5 +1,3 @@
-Here’s a reformulated version for a **README.md** file:
-
 # TCP Server-Client and Multi-threaded Socket Programming in Python
 
 ## 1. TCP Server-Client Implementation
